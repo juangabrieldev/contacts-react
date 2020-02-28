@@ -5,6 +5,7 @@ const initialState = {
     {
       id: "quaxi71a",
       firstName: "Aubrey",
+      middleName: "",
       lastName: "Terry",
       mobileNumber: "09591736637",
       emailAddress: "aubreyterry@gmail.com"
@@ -12,6 +13,7 @@ const initialState = {
     {
       id: "cqc3tmbxc",
       firstName: "Kara",
+      middleName: "",
       lastName: "Lawrence",
       mobileNumber: "09693943668",
       emailAddress: "karalawrence@gmail.com"
@@ -19,6 +21,7 @@ const initialState = {
     {
       id: "6e3gtfyzs",
       firstName: "Raquel",
+      middleName: "",
       lastName: "Wright",
       mobileNumber: "09177324640",
       emailAddress: "raquelwright@gmail.com"
@@ -26,6 +29,7 @@ const initialState = {
     {
       id: "lpwx12ww",
       firstName: "Lola",
+      middleName: "",
       lastName: "Garrett",
       mobileNumber: "09453244072",
       emailAddress: "lolagarrett@gmail.com"
